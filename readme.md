@@ -6,7 +6,7 @@ Welcome to my GitHub profile!
 I'm a Senior Data Engineer with 9 years of professional experience in designing, building, and optimizing large-scale data solutions. My expertise spans across cloud platforms, big data processing, and data analytics.
 
 ## 🚀 Skills & Technologies
-- **Cloud Platforms:** Azure, AWS
+- **Cloud Platforms:** AWS , Azure
 - **Big Data Processing:** PySpark
 - **Databases:** SQL
 
